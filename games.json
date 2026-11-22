@@ -1,0 +1,19 @@
+{
+  "format": "dsh-games-feed",
+  "version": 1,
+  "name": "timliangzh725 的小游戏",
+  "author": "timliangzh725",
+  "updatedAt": "2026-11-22T03:56:26.917Z",
+  "games": [
+    {
+      "slug": "demo-star-run",
+      "title": "星野小狐",
+      "url": "demo-star-run/",
+      "cover": "demo-star-run/cover.jpg",
+      "dimension": "2d",
+      "orientation": "portrait",
+      "publishedAt": "2026-11-22T03:56:26.917Z"
+    }
+  ],
+  "wall": null
+}

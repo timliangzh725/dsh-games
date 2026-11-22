@@ -1,0 +1,16 @@
+{
+  "tool": "dsh-game-studio",
+  "version": 1,
+  "games": {
+    "demo-star-run": {
+      "title": "星野小狐",
+      "source": "c5298384e482e070",
+      "publishedAt": "2026-11-22T03:56:26.917Z",
+      "buildId": "2bba83e3c179",
+      "dimension": "2d",
+      "orientation": "portrait",
+      "cover": "demo-star-run/cover.jpg"
+    }
+  },
+  "wall": null
+}
