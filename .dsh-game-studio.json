@@ -10,7 +10,19 @@
       "dimension": "2d",
       "orientation": "portrait",
       "cover": "demo-star-run/cover.jpg"
+    },
+    "demo-star-run-2": {
+      "title": "星野小狐",
+      "source": "b2f247f38b3ed4df",
+      "publishedAt": "2026-11-22T04:38:28.777Z",
+      "buildId": "2bba83e3c179",
+      "dimension": "2d",
+      "orientation": "portrait",
+      "cover": "demo-star-run-2/cover.jpg"
     }
   },
-  "wall": null
+  "wall": {
+    "publishedAt": "2026-11-22T04:38:28.777Z",
+    "games": 2
+  }
 }
