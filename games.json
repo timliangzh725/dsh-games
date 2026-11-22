@@ -3,8 +3,17 @@
   "version": 1,
   "name": "timliangzh725 的小游戏",
   "author": "timliangzh725",
-  "updatedAt": "2026-11-22T04:55:38.763Z",
+  "updatedAt": "2026-11-22T06:58:26.119Z",
   "games": [
+    {
+      "slug": "penguin-ice-2",
+      "title": "冰山小企鹅",
+      "url": "penguin-ice-2/",
+      "cover": "penguin-ice-2/cover.jpg",
+      "dimension": "3d",
+      "orientation": "portrait",
+      "publishedAt": "2026-11-22T06:58:26.119Z"
+    },
     {
       "slug": "penguin-ice",
       "title": "冰山小企鹅",
@@ -14,7 +23,6 @@
       "orientation": "portrait",
       "publishedAt": "2026-11-22T04:49:34.030Z"
     },
-    
     {
       "slug": "demo-star-run",
       "title": "星野小狐",
