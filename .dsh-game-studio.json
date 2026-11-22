@@ -13,25 +13,16 @@
     },
     "penguin-ice": {
       "title": "冰山小企鹅",
-      "source": "c1c117acbf699e5c",
-      "publishedAt": "2026-11-22T04:49:34.030Z",
-      "buildId": "3d7ec45dd85f",
-      "dimension": "3d",
-      "orientation": "portrait",
-      "cover": "penguin-ice/cover.jpg"
-    },
-    "penguin-ice-2": {
-      "title": "冰山小企鹅",
       "source": "b8c7675d1e64f4d2",
       "publishedAt": "2026-11-22T06:58:26.119Z",
       "buildId": "c742b5ddfdca",
       "dimension": "3d",
       "orientation": "portrait",
-      "cover": "penguin-ice-2/cover.jpg"
+      "cover": "penguin-ice/cover.jpg"
     }
   },
   "wall": {
-    "publishedAt": "2026-11-22T04:55:38.763Z",
-    "games": 3
+    "publishedAt": "2026-11-22T07:05:00.000Z",
+    "games": 2
   }
 }

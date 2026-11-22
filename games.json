@@ -6,22 +6,13 @@
   "updatedAt": "2026-11-22T06:58:26.119Z",
   "games": [
     {
-      "slug": "penguin-ice-2",
-      "title": "冰山小企鹅",
-      "url": "penguin-ice-2/",
-      "cover": "penguin-ice-2/cover.jpg",
-      "dimension": "3d",
-      "orientation": "portrait",
-      "publishedAt": "2026-11-22T06:58:26.119Z"
-    },
-    {
       "slug": "penguin-ice",
       "title": "冰山小企鹅",
       "url": "penguin-ice/",
       "cover": "penguin-ice/cover.jpg",
       "dimension": "3d",
       "orientation": "portrait",
-      "publishedAt": "2026-11-22T04:49:34.030Z"
+      "publishedAt": "2026-11-22T06:58:26.119Z"
     },
     {
       "slug": "demo-star-run",
