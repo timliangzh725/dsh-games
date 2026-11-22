@@ -11,15 +11,7 @@
       "orientation": "portrait",
       "cover": "demo-star-run/cover.jpg"
     },
-    "demo-star-run-2": {
-      "title": "星野小狐",
-      "source": "b2f247f38b3ed4df",
-      "publishedAt": "2026-11-22T04:38:28.777Z",
-      "buildId": "2bba83e3c179",
-      "dimension": "2d",
-      "orientation": "portrait",
-      "cover": "demo-star-run-2/cover.jpg"
-    },
+    
     "penguin-ice": {
       "title": "冰山小企鹅",
       "source": "c1c117acbf699e5c",
@@ -31,7 +23,7 @@
     }
   },
   "wall": {
-    "publishedAt": "2026-11-22T04:49:34.030Z",
-    "games": 3
+    "publishedAt": "2026-11-22T04:55:38.763Z",
+    "games": 2
   }
 }
