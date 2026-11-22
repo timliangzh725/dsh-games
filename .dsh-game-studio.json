@@ -14,15 +14,15 @@
     "penguin-ice": {
       "title": "冰山小企鹅",
       "source": "b8c7675d1e64f4d2",
-      "publishedAt": "2026-11-22T06:58:26.119Z",
-      "buildId": "c742b5ddfdca",
+      "publishedAt": "2026-11-22T07:13:31.145Z",
+      "buildId": "57d1c2dafc9a",
       "dimension": "3d",
       "orientation": "portrait",
       "cover": "penguin-ice/cover.jpg"
     }
   },
   "wall": {
-    "publishedAt": "2026-11-22T07:05:00.000Z",
+    "publishedAt": "2026-11-22T07:13:31.145Z",
     "games": 2
   }
 }

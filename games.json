@@ -3,7 +3,7 @@
   "version": 1,
   "name": "timliangzh725 的小游戏",
   "author": "timliangzh725",
-  "updatedAt": "2026-11-22T06:58:26.119Z",
+  "updatedAt": "2026-11-22T07:13:31.145Z",
   "games": [
     {
       "slug": "penguin-ice",
@@ -12,7 +12,7 @@
       "cover": "penguin-ice/cover.jpg",
       "dimension": "3d",
       "orientation": "portrait",
-      "publishedAt": "2026-11-22T06:58:26.119Z"
+      "publishedAt": "2026-11-22T07:13:31.145Z"
     },
     {
       "slug": "demo-star-run",
