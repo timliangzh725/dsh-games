@@ -3,8 +3,17 @@
   "version": 1,
   "name": "timliangzh725 的小游戏",
   "author": "timliangzh725",
-  "updatedAt": "2026-11-22T07:13:31.145Z",
+  "updatedAt": "2026-11-23T01:58:28.609Z",
   "games": [
+    {
+      "slug": "strait-commander",
+      "title": "海峡指挥官：全息海战",
+      "url": "strait-commander/",
+      "cover": "strait-commander/cover.jpg",
+      "dimension": "3d",
+      "orientation": "landscape",
+      "publishedAt": "2026-11-23T01:58:28.609Z"
+    },
     {
       "slug": "penguin-ice",
       "title": "冰山小企鹅",

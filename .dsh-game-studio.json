@@ -19,10 +19,19 @@
       "dimension": "3d",
       "orientation": "portrait",
       "cover": "penguin-ice/cover.jpg"
+    },
+    "strait-commander": {
+      "title": "海峡指挥官：全息海战",
+      "source": "de08574bce31318b",
+      "publishedAt": "2026-11-23T01:58:28.609Z",
+      "buildId": "ec959d17aae6",
+      "dimension": "3d",
+      "orientation": "landscape",
+      "cover": "strait-commander/cover.jpg"
     }
   },
   "wall": {
     "publishedAt": "2026-11-22T07:13:31.145Z",
-    "games": 2
+    "games": 3
   }
 }
