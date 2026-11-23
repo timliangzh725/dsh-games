@@ -28,10 +28,19 @@
       "dimension": "3d",
       "orientation": "landscape",
       "cover": "strait-commander/cover.jpg"
+    },
+    "sky-ace": {
+      "title": "铁翼苍穹",
+      "source": "23eefc60426658c9",
+      "publishedAt": "2026-11-23T02:00:13.168Z",
+      "buildId": "e8f7264c1e1c",
+      "dimension": "3d",
+      "orientation": "landscape",
+      "cover": "sky-ace/cover.jpg"
     }
   },
   "wall": {
     "publishedAt": "2026-11-22T07:13:31.145Z",
-    "games": 3
+    "games": 4
   }
 }
