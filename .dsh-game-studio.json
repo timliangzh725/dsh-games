@@ -39,17 +39,17 @@
       "cover": "sky-ace/cover.jpg"
     },
     "tidebloom-gs": {
-      "title": "潮汐花岛 Tidebloom",
+      "title": "娼睈鑺卞矝 Tidebloom",
       "source": "fec32a98ff427ee8",
-      "publishedAt": "2026-11-24T04:35:43.268Z",
-      "buildId": "bafe54788fc4",
+      "publishedAt": "2026-11-24T04:41:48.377Z",
+      "buildId": "19c112e0115d",
       "dimension": "3d",
       "orientation": "landscape",
       "cover": "tidebloom-gs/cover.jpg"
     }
   },
   "wall": {
-    "publishedAt": "2026-11-24T04:35:43.268Z",
+    "publishedAt": "2026-11-24T04:41:48.377Z",
     "games": 5
   }
 }
