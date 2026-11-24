@@ -3,8 +3,17 @@
   "version": 1,
   "name": "timliangzh725 的小游戏",
   "author": "timliangzh725",
-  "updatedAt": "2026-11-23T02:00:13.168Z",
+  "updatedAt": "2026-11-24T04:35:43.268Z",
   "games": [
+    {
+      "slug": "tidebloom-gs",
+      "title": "潮汐花岛 Tidebloom",
+      "url": "tidebloom-gs/",
+      "cover": "tidebloom-gs/cover.jpg",
+      "dimension": "3d",
+      "orientation": "landscape",
+      "publishedAt": "2026-11-24T04:35:43.268Z"
+    },
     {
       "slug": "sky-ace",
       "title": "铁翼苍穹",

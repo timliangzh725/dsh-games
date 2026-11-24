@@ -37,10 +37,19 @@
       "dimension": "3d",
       "orientation": "landscape",
       "cover": "sky-ace/cover.jpg"
+    },
+    "tidebloom-gs": {
+      "title": "潮汐花岛 Tidebloom",
+      "source": "fec32a98ff427ee8",
+      "publishedAt": "2026-11-24T04:35:43.268Z",
+      "buildId": "bafe54788fc4",
+      "dimension": "3d",
+      "orientation": "landscape",
+      "cover": "tidebloom-gs/cover.jpg"
     }
   },
   "wall": {
-    "publishedAt": "2026-11-22T07:13:31.145Z",
-    "games": 4
+    "publishedAt": "2026-11-24T04:35:43.268Z",
+    "games": 5
   }
 }
