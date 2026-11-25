@@ -3,7 +3,7 @@
   "version": 1,
   "name": "timliangzh725 的小游戏",
   "author": "timliangzh725",
-  "updatedAt": "2026-11-25T14:07:42.206Z",
+  "updatedAt": "2026-11-25T15:16:49.279Z",
   "games": [
     {
       "slug": "diaolou-atelier",
@@ -21,7 +21,7 @@
       "cover": "tidebloom-gs/cover.jpg",
       "dimension": "3d",
       "orientation": "landscape",
-      "publishedAt": "2026-11-25T14:07:42.000Z"
+      "publishedAt": "2026-11-25T15:16:49.000Z"
     },
     {
       "slug": "sky-ace",
@@ -30,7 +30,7 @@
       "cover": "sky-ace/cover.jpg",
       "dimension": "3d",
       "orientation": "landscape",
-      "publishedAt": "2026-11-25T14:06:42.000Z"
+      "publishedAt": "2026-11-25T15:15:49.000Z"
     },
     {
       "slug": "strait-commander",
@@ -39,7 +39,7 @@
       "cover": "strait-commander/cover.jpg",
       "dimension": "3d",
       "orientation": "landscape",
-      "publishedAt": "2026-11-25T14:05:42.000Z"
+      "publishedAt": "2026-11-25T15:14:49.000Z"
     },
     {
       "slug": "penguin-ice",
@@ -48,7 +48,7 @@
       "cover": "penguin-ice/cover.jpg",
       "dimension": "3d",
       "orientation": "portrait",
-      "publishedAt": "2026-11-25T14:04:42.000Z"
+      "publishedAt": "2026-11-25T15:13:49.000Z"
     },
     {
       "slug": "demo-star-run",
@@ -57,7 +57,7 @@
       "cover": "demo-star-run/cover.jpg",
       "dimension": "2d",
       "orientation": "portrait",
-      "publishedAt": "2026-11-25T14:03:42.000Z"
+      "publishedAt": "2026-11-25T15:12:49.000Z"
     }
   ],
   "wall": "wall/"
